@@ -77,9 +77,9 @@
 
 ## 📫 Contact
 
-- ✉️ cristian.mendez@example.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/cristian-mendez-ig/)) *(update if needed)*  
-- 🌐 [Portfolio](https://yourportfolio.dev) *(add if available)*  
+- ✉️ cristian.mendez@hemia.mx  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-mendez-ig/)
+- 🌐 [Portfolio](https://yourportfolio.dev)
 
 ---
 

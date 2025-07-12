@@ -85,8 +85,8 @@
 
 ## 📊 GitHub Stats
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianmendez&show_icons=true&theme=react&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianmendez&layout=compact&theme=react)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khr0x&show_icons=true&theme=react&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khr0x&layout=compact&theme=react)
 
 ---
 

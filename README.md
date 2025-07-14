@@ -15,31 +15,17 @@
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=fff&style=flat-square)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-
-**Frameworks & Libraries:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat-square)  
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=fff&style=flat-square)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat-square)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=fff&style=flat-square)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-
-**Tools & DevOps:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)  
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=000&style=flat-square)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)  
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=githubactions)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter" height="40" alt="mobile stack" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,tailwind,html,css,js" height="40" alt="frontend stack" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,python" height="40" alt="backend stack" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql" height="40" alt="databases" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,jira" height="40" alt="tools" />
+</div>
 
 ---
 
